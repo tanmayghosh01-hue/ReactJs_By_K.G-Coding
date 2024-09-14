@@ -1,0 +1,23 @@
+.style-Item {
+    background-color: khaki !important;
+    border: 1px solid red !important;
+    font-family: "SUSE",sans-serif;
+    font-weight: 600;
+    align-items: center;
+}
+
+.button {
+    border: 2px solid darkmagenta !important;
+    float: right;
+    /* position: absolute;
+    right: 20px;
+    height: 0px; */
+}
+
+.toggleColor {
+    background-color: lightseagreen !important;
+    border: 1px solid red !important;
+    font-family: "SUSE",sans-serif;
+    font-weight: 600;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+.buttonsContainer {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    column-gap: 10px;
+    row-gap: 8px;
+}

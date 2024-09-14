@@ -1,0 +1,38 @@
+
+
+.container {
+    /* border: 1px solid black; */
+    margin-top: 4px;
+}
+
+.input1 {
+    width: 100%;
+}
+
+h1 {
+    margin: 10px;
+    font-size: 40px;
+    margin-bottom: 30px;
+
+}
+
+input {
+    width: 100%;
+}
+
+button {
+    width: 60%;
+}
+
+.heading-one {
+    font-size: 40px;
+    font-weight:normal;
+}
+
+.todo-item {
+    text-align: left;
+}
+
+.todo-container {
+    text-align: left;
+}

@@ -1,0 +1,22 @@
+
+
+.calculator {
+    border: 1px solid rgb(90, 90, 90);
+    width: 350px;
+    border-radius: 5px;
+    display: grid;
+    justify-content: center; 
+}
+
+
+
+/* .buttonsContainer {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    column-gap: 10px;
+    row-gap: 8px;
+} */
